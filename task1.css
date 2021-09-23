@@ -1,0 +1,508 @@
+#page1{
+    width: 100%;
+    height: 100%;  
+    background-image: url("https://getwallpapers.com/wallpaper/full/6/b/2/124162.jpg")
+}
+#header{
+    width: 100%;
+    height: 7%;
+    position: relative;
+    top: 2%;
+}
+
+.head{
+    font-size: 28px;
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-left: 30%;
+}
+
+.sec_head{ 
+  color: white;
+  font-size: 18px;
+  display:inline-block;
+  padding-left: 1.5%;
+  position: relative;
+  left: 55%;
+  top: -130%;
+}
+
+#rigt_sentences{
+     width: 100%;
+     position: relative;
+     left: 55%;
+     top: -185%;
+      
+}
+
+.middle{
+    width: 30%;
+    height: 20%;
+    position: relative;
+    top: 17%;
+    left: 30%;
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.middle_next{
+    width: 80%;
+    height: 11%;
+    position: relative;
+    top: 19%;
+    left: 30%;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:visited{
+  color: whitesmoke;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color:blue;
+}
+.footer{
+    position: relative;
+    top: 18%;
+    left: 20%;
+}
+.footer li{
+    display: inline-block;
+}
+.footer a{
+    color:#000;
+        background-color:yellow;
+        text-decoration:none;
+        padding:12px;
+        padding-left: 25px;
+        /*border:1px solid #000;*/
+        margin-right:-4px;
+}
+.footer a:hover{
+    color: aqua;
+    background-color: whitesmoke;
+}
+.footer a:visited{
+    color: white;
+    background-color: purple;
+}
+
+#page2,#page3,#page5{
+    width: 100%;
+    height: 100%;
+}
+
+#page2header{
+    width: 70%;
+    height: 20%;
+    /*border: solid black 1px;*/
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size:25px;
+    padding-top: 18px;
+    position: relative;
+    left:20%;
+}
+.page2table{
+    width: 70%;
+    height: 55%;
+    /*border: solid black 1px;*/
+    border-style: solid;
+    border-width: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    position: relative;
+    top: 10%;
+    left: 15%;
+}
+
+.intable{
+    width: 32.5%;
+    height: 95%;
+/*    border: solid red 1px;*/
+    display: inline-block;
+}
+
+.circle{
+    width: 20%;
+    height: 20%;
+    /*border: solid yellowgreen 1px;*/
+    border-style: solid;
+    border-radius: 360px;
+    border-color: violet;
+    border-width: 1px;
+    position: relative;
+    left: 38%;
+    background-color: blueviolet;
+  /* top: 10%;*/
+}
+
+p{
+    color:#000;
+    text-align: center;
+    font-size:smaller;
+}
+
+.page3header{
+    width: 100%;
+    height: 15%;
+    /*border: solid red 1px;*/
+    color: black;
+    text-align: center;
+    background-color: cadetblue;
+    padding-top: 0.5%;
+}
+
+#page3middle{
+    width: 100%;
+    height: 85%;
+    /*border: solid black 1px;*/
+    background-color: lightgrey;
+
+}
+.page3indiv{
+    width: 24.62%;
+    height: 100%;
+    /*border: solid blue 1px;*/
+    display: inline-block;
+}
+.p3h1{
+    width: 100%;
+    height: 65%;
+    /*border: solid palevioletred 1px;*/
+}
+.p3h2{
+    width: 100%;
+    height: 35%;
+    /*border: solid black 1px;*/
+    background-color: lightgrey;
+    font-size: smaller;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+    top: -2.8%;
+}
+.p3h2:hover{
+    background-color: rgb(151, 151, 26);
+}
+.box{
+    width: 40%;
+    height: 15%;
+   /* border: solid red 1px;*/
+    text-align: center;
+    margin: 8px 14px 8px 70px;
+    padding-top: 8px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 180px;
+}
+.box a{color: black;
+background-color: red;
+}
+.box:hover{
+    background-color: blueviolet;
+    color: white;
+}
+#page4{
+    height: 100%;width: 100%;
+    background-image: url("https://www.clipartkey.com/mpngs/m/4-41435_money-clip-art-transparent-background-money-clipart.png");opacity:0.8;
+}
+#table{
+  height: 80%;
+  width: 60%;
+  position: relative;
+  left: 20%;
+ 
+}
+.tb{
+    width: 32.5%;
+    height: 60%;
+    padding-top: 10px;
+    margin-top: 90px;
+    display: inline-block;
+    opacity: 0.8;
+    background-color:aquamarine ;
+}
+
+.tb:hover{
+  transform: scale(1.15);
+}
+.facecircle{
+    height: 25%;
+    width: 15%;
+    border: solid red 1px;
+    border-radius: 360px;
+    display: inline-block;
+    margin: 0 70px 0 70px;
+   /*background-image: url("https://www.clipartkey.com/mpngs/m/4-41435_money-clip-art-transparent-background-money-clipart.png");*/
+
+
+}
+.facecircle1{
+    height: 25%;
+    width: 15%;
+    border: solid red 1px;
+    border-radius: 360px;
+    display: inline-block;
+    margin: 110px 70px 0 70px;
+}
+.NewsLetter{
+    width: 100%;
+    height: 62%;
+    background-image: url("https://live.staticflickr.com/8135/8917523146_7eac76047a_b.jpg");background-size: 100% 100%;
+    text-align: center;
+    padding-top: 10%;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  img {
+    vertical-align: middle;
+  }
+  .container {
+    position: relative;
+    left: 20%;
+  }
+  .mySlides {
+    display: none;
+  }
+  .cursor {
+    cursor: pointer;
+  }
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  .demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+#bcvideo{
+  width: 100%;
+  background-color:lightgreen;
+}
+
+#Team {
+  padding-top: 2%;
+  font-size: medium;
+}
+
+.Team-data {
+  padding: 0 25%;
+  padding-top: 3%;
+  display: inline-block;
+  /*border: solid red 1px;*/
+  width: 100%;
+  margin-top: -3%;
+}
+
+.Team-members {
+  background: none;
+  border: 0;
+  padding: 6%;
+}
+
+#msdhoni {
+  
+  background-image: url("https://c.ndtvimg.com/2020-01/od26eebg_ms-dhoni_625x300_16_January_20.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hidden{
+  display: none;
+}
+
+.Team-members-social-media {
+  margin: 0 auto;
+  background-color: pink;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.Team-image {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.Team-members-social-media:hover{
+  opacity: 0.2;
+  display: block;
+}
+.sbox{
+  width: 40%;
+  height: 10%;
+  border: solid red 1px;
+  position: relative;
+  top:-50%;left: 30%;
+  display: none;
+}
+.sbox:hover{
+  display: block;
+  background-color: red;
+}
+.Team-members-social-media:hover ,.twitter {
+  opacity: 1;
+}
+
+.Team-members-social-media:hover .fb {
+  opacity: 1;
+}
+
+.Team-image:hover {
+  opacity: 0.5;
+}
+.hidden:hover{
+  display: block;
+}
+
+.Team-member-name {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+.Team-member {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 100%;
+  font-weight: 300;
+}
+
+.Team-member-name {
+  color: white;
+}
+
+.top_container{
+  display:flex;
+}
+
+.top_container > div {
+  flex:60%;
+  background-color: red;
+}
+
+.top_container > span {
+  background-color: yellow;
+  flex:30%;
+}
+
+
+
+
+.r1{
+  width: 30%;
+  height: 40%;
+  display: inline-block;
+}
+
+.page6indiv{
+  width: 24.62%;
+  height: 100%;
+  border: solid blue 1px;
+  display: inline-block;
+  /*margin-left: 8%;*/
+  background-color: brown;
+  position:sticky;
+}
+
+.p6h1{
+  width: 60%;
+  height: 80%;
+  /*border: solid yellow 1px;*/
+  background-color: pink;
+  font-size: smaller;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  top: -2.8%;
+  margin-top: 18%;
+  margin-left: 20%;
+  transition: 1s;
+}
+.p6h1:hover{
+  background-color:blanchedalmond;
+  /*box-shadow: 5px 10px #888888;*/
+  transform: scale(1.15);
+}
+
+  h4,h5{
+    text-align: center;
+  }
+
+  #last1{
+    width: 49.7%;
+    height: 85%;
+    /*border: solid orange 1px;*/
+    display: inline-block;
+  }
+
+  .footerlast{
+    height: 40%;
+    width: 60%;
+    background-color: white;
+    margin-left: 19%;
+  }
+
+  .foot{
+    width:30%;
+    height: 100%;
+    /*border: solid blue 1px;*/
+    display: inline-block;
+
+  }
